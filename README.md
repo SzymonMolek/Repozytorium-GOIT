@@ -1,2 +1,2 @@
-# Repozytorium GOIT - testowe
+# Repozytorium GOIT - test
 Repozytorium testowe
